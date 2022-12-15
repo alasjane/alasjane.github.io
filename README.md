@@ -87,26 +87,47 @@
         }
         .downmiddle{
             float:left;
-            width:80px;
+            width:130px;
             color:#808080;
         }
         .downright{
             float:right;
-            width:200px;
+            width:145px;
             color:#808080;
         }
         #agree {
             width: 400px;
             overflow: hidden;
             background-color: #ffffff;
+            height: 30px;
         }
         .agreeleft {
             float: left;
-            width: 30px;
+            width: 35px;
         }
         .agreeright {
             float: left;
             width: 200px;
+            line-height: 30px;
+        }
+        #remark {
+            width: 400px;
+            height: 40px;
+            background-color: #ffffff;
+            margin: 0 auto;
+            line-height: 40px;
+            text-align: center;
+            color: #808080;
+        }
+        #grey {
+            width: 400px;
+            height: 5px;
+            background-color: #f4f4f4;
+        }
+        #grey-tall {
+            width: 400px;
+            height: 40px;
+            background-color: #f4f4f4;
         }
     </style>
 
@@ -114,25 +135,25 @@
     <body>
         <div id="background">
             <div id="box">
-                <td><strong>疫情期间学生临时出校申请</strong></td>
+                <td><strong>疫情期间学生临时出校申请纪念版</strong></td>
             </div>
             <div id="shenpi">此申请由[审批]应用提交</div>
             <div id="up">
-                <div class="upleft"><img width="30px" height="30px"></div>
-                <div class="upmiddle"><strong>yyds的疫情期间学生临时出校申请纪念版</strong></div>
+                <div class="upleft"><img src="C:\Users\HE\Desktop\出校申请纪念版\小花狮.gif" width="30px" height="30px"></div>
+                <div class="upmiddle"><strong>小花狮的疫情期间学生临时出校申请纪念版</strong></div>
                 <div class="upright">
                     <div style="border:1px solid#01a016">已通过</div>
                 </div>
             </div>
-            
+            <div id="grey"></div>
             <div>
                 <div id="wai">
                     <div class="divleft">审批编号</div>
-                    <div class="divright">20221213</div>
+                    <div class="divright">202212147603</div>
                 </div>
                 <div id="wai">
                     <div class="divleft">提交时间</div>
-                    <div class="divright">2022/12/13 19:31</div>
+                    <div class="divright">2022/12/14 23:33</div>
                 </div>
                 <div id="wai">
                     <div class="divleft">所在部门</div>
@@ -147,12 +168,18 @@
                     <div class="divright">校长办公室</div>
                 </div>
                 <div id="wai">
-                    <div class="divleft">于2020-2022年提交过的出校事由</div>
-                    <div class="divright">吸收病毒，粗去朴昌，吃猫，摸鱼，翅膀硬了，申请一下出校看看接下来会发生什么，听说能出校了试一下是不是真的，</div>
+                    <div class="divleft">于2020年 - 2022年提交过的出校事由</div>
+                    <div class="divright">
+                        想吃KFC，冷拿衣服，吃猫，摸鱼，翅膀硬了，
+                        rng被淘汰了很难过要出去散心，陪ljh出去呼吸空气，
+                        申请一下出校看看接下来会发生什么，听说能出校了试一下是不是真的，
+                        去山的那边海的那边找一群蓝精灵，受邀去北京开会，
+                        女儿要生了，粗去朴昌，锻炼免疫系统，吸收病毒
+                    </div>
                 </div>
                 <div id="wai">
                     <div class="divleft">临时出校开始日期</div>
-                    <div class="divright">2022/12/13</div>
+                    <div class="divright">2022/12/14</div>
                 </div>
                 <div id="wai">
                     <div class="divleft">临时出校结束日期</div>
@@ -160,31 +187,35 @@
                 </div>
                 <div id="wai">
                     <div class="divleft">随申码截图</div>
-                    <div class="divright"><img width="300px" height="30px"></div>
+                    <div class="divright"><img src="C:\Users\HE\Desktop\出校申请纪念版\随申码.jpg" width="300px" height="50px"></div>
                 </div>
                 <div id="wai">
                     <div class="divleft">核酸检测报告</div>
-                    <div class="divright"><img width="300px" height="30px"></div>
+                    <div class="divright"><img src="C:\Users\HE\Desktop\出校申请纪念版\核酸检测报告.jpg" width="300px" height="50px"></div>
                 </div>
 
             </div>
 
+            <div id="grey"></div>
+
             <div style="background-color:white">
                 <strong>审批流程</strong>
                 <div id="agree">
-                    <div class="agreeleft"><img width="30px" height="30px"></div>
+                    <div class="agreeleft"><img src="C:\Users\HE\Desktop\出校申请纪念版\审批盖章.jpg" width="30px" height="30px"></div>
                     <div class="agreeright">审批人·已同意</div>
                 </div>
                 <div id="down">
-                    <div class="downlleft"><table><td style="width:30px"></td></table></div>
+                    <div class="downlleft"><img src="C:\Users\HE\Desktop\出校申请纪念版\竖线.jpg" width="30px" height="50px"></div>
+                    <div><table><tr width="300px" height="10px"></tr></table></div>
                     <div class="downleft"><img src="C:\Users\HE\Desktop\出校申请纪念版\马保国.jpg" width="30px" height="30px"></div>
                     <div class="downmiddle">马保国</div>
-                    <div class="downright">已同意·12/12 14:10</div>
+                    <div class="downright">已同意·12/14 23:58</div>
                 </div>
                 <div id="agree">
-                    <div class="agreeleft"><img width="30px" height="30px"></div>
+                    <div class="agreeleft"><img src="C:\Users\HE\Desktop\出校申请纪念版\审批盖章.jpg" width="30px" height="30px"></div>
                     <div class="agreeright">审批人·已同意</div>
                 </div>
+
                 <div id="down">
                     <div class="downlleft"><table><td style="width:30px"></td></table></div>
                     <div class="downleft"><img src="C:\Users\HE\Desktop\出校申请纪念版\王境泽.jpeg" width="30px" height="30px"></div>
@@ -201,11 +232,17 @@
                     <div class="downlleft"><table><td style="width:30px"></td></table></div>
                     <div class="downleft"><img src="C:\Users\HE\Desktop\出校申请纪念版\张美玉.jpg" width="30px" height="30px"></div>
                     <div class="downmiddle">张美玉</div>
-                    <div class="downright">已自动同意 12/12 14:10</div>
+                    <div class="downright">已同意·12/14 23:59</div>
                 </div>
             </div>
 
-            
+            <div id="grey"></div>
+            <div id="remark">添加备注</div>
+            <div id="grey-tall"></div>
+            <div><img src="C:\Users\HE\Desktop\出校申请纪念版\再次提交.jpg" width="400px"></div>
+
+
+
         </div>
     </body>
 </html>
