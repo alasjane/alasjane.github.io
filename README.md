@@ -1,5 +1,3 @@
-# alasjane.github.io
-  <!Doctype html>
 <html>
 <head>
     <title>离校申请</title>
@@ -178,7 +176,7 @@
                     <div class="agreeright">审批人·已同意</div>
                 </div>
                 <div id="down">
-                    <div class="downlleft">&nbsp&nbsp&nbsp</div>
+                    <div class="downlleft"><table><td style="width:30px"></td></table></div>
                     <div class="downleft"><img src="C:\Users\HE\Desktop\出校申请纪念版\马保国.jpg" width="30px" height="30px"></div>
                     <div class="downmiddle">马保国</div>
                     <div class="downright">已同意·12/12 14:10</div>
@@ -188,19 +186,19 @@
                     <div class="agreeright">审批人·已同意</div>
                 </div>
                 <div id="down">
-                    <div class="downlleft">&nbsp&nbsp&nbsp</div>
+                    <div class="downlleft"><table><td style="width:30px"></td></table></div>
                     <div class="downleft"><img src="C:\Users\HE\Desktop\出校申请纪念版\王境泽.jpeg" width="30px" height="30px"></div>
                     <div class="downmiddle">王境泽</div>
                     <div class="downright"></div>
                 </div>
                 <div id="down">
-                    <div class="downlleft">&nbsp&nbsp&nbsp</div>
+                    <div class="downlleft"><table><td style="width:30px"></td></table></div>
                     <div class="downleft"><img src="C:\Users\HE\Desktop\出校申请纪念版\赵向前.png" width="30px" height="30px"></div>
                     <div class="downmiddle">赵向前</div>
                     <div class="downright"></div>
                 </div>
                 <div id="down">
-                    <div class="downlleft">&nbsp&nbsp&nbsp</div>
+                    <div class="downlleft"><table><td style="width:30px"></td></table></div>
                     <div class="downleft"><img src="C:\Users\HE\Desktop\出校申请纪念版\张美玉.jpg" width="30px" height="30px"></div>
                     <div class="downmiddle">张美玉</div>
                     <div class="downright">已自动同意 12/12 14:10</div>
